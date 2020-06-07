@@ -2,7 +2,6 @@
 """
 Created on Thu Mar  5 20:57:03 2020
 
-@author: Koundinya
 """
 
 # Creating database
